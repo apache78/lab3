@@ -70,3 +70,6 @@ box-shadow: 2px 2px 6px #555;
 	transform: scale(1.5) rotate(-360deg);
 	
 }
+footer{
+	border-top: 2px solid black;
+}
